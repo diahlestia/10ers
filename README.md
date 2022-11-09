@@ -1,4 +1,4 @@
-# 10xers
+# 10ers
 > **The backend API for getting token from MagicEden API.**
 
 ## Table of Contents
